@@ -1,0 +1,19 @@
+<aquecimento.CentralDeInformacoes>
+  <todosOsEditais/>
+  <todosOsAlunos>
+    <aquecimento.Aluno>
+      <nome>jose</nome>
+      <matricula>123456</matricula>
+      <email>jose@1234</email>
+      <senha>123</senha>
+      <sexo>MASCULINO</sexo>
+    </aquecimento.Aluno>
+    <aquecimento.Aluno>
+      <nome>jose</nome>
+      <matricula>123</matricula>
+      <email>jose@email</email>
+      <senha>1234</senha>
+      <sexo>MASCULINO</sexo>
+    </aquecimento.Aluno>
+  </todosOsAlunos>
+</aquecimento.CentralDeInformacoes>
